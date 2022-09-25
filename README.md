@@ -1,5 +1,5 @@
 ### Hi there 👋 I´m Ben.
-I work in cyber security and are a maker in my free time.
+I work in cyber security and I´m a maker in my free time.
 You find my projects on [https://blog.boerzel.de](https://blog.boerzel.de) or cyber security stuff on [https://blog.boerzel.it/](https://blog.boerzel.it/).
 
 <!--
