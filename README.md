@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I´m Ben.
+I work in cyber security and are a maker in my free time.
+You find my projects on [https://blog.boerzel.de](https://blog.boerzel.de) or cyber security stuff on [https://blog.boerzel.it/](https://blog.boerzel.it/).
 
 <!--
 **bboerzel/bboerzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
